@@ -1,4 +1,4 @@
-(ns com.gearswithingears.async-sockets
+(ns com.works.async-sockets
   (:require [clojure.java.io :as io]
             [clojure.core.async :as async]
             [clojure.tools.logging :as log])
