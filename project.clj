@@ -1,4 +1,4 @@
-(defproject com.works/async-sockets "0.2.0"
+(defproject com.works/async-sockets "0.3.0"
   :description "A Clojure library for working with sockets using core.async channels."
   :url "https://github.com/bguthrie/async-sockets"
   :license {:name "The MIT License"
